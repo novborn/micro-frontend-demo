@@ -1,3 +1,4 @@
+// main shell webpack.config.js
 const HtmlWebpackPlugin = require("html-webpack-plugin");
 const { ModuleFederationPlugin } = require("webpack").container;
 
